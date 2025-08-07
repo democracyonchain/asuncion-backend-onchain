@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "s1SUI/KbqAIQeIMUhzbbYH6mQVkRCgzFL+wcxhphuFM=",
+  "Source": "asuncion-cardano-api",
+  "BasePath": "_content/asuncion-cardano-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

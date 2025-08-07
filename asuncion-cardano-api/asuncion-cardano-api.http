@@ -1,0 +1,6 @@
+@asuncion_cardano_api_HostAddress = http://localhost:5195
+
+GET {{asuncion_cardano_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

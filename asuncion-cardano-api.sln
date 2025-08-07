@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asuncion-cardano-api", "asuncion-cardano-api\asuncion-cardano-api.csproj", "{07C3D024-39AB-4FA1-BAF1-89EBB8C35FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C3D024-39AB-4FA1-BAF1-89EBB8C35FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C3D024-39AB-4FA1-BAF1-89EBB8C35FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C3D024-39AB-4FA1-BAF1-89EBB8C35FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C3D024-39AB-4FA1-BAF1-89EBB8C35FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36B8BCC-5919-44D4-8A25-E55E3F22714D}
+	EndGlobalSection
+EndGlobal
